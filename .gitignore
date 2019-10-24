@@ -29,7 +29,7 @@ hs_err_pid*
 /**/*/.classpath
 /**/*/.idea
 /.idea
-.idea
+/.idea/*
 .settings
 .vscode
 /**/*.iml
@@ -40,3 +40,5 @@ hs_err_pid*
 /**/*/mvnw
 /**/*/mvnw.cmd
 /**/*/.gitignore
+/**/*/.mvn
+generated
