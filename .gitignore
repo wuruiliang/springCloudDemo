@@ -41,4 +41,5 @@ hs_err_pid*
 /**/*/mvnw.cmd
 /**/*/.gitignore
 /**/*/.mvn
+/**/*/HELP.md
 generated
